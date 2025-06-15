@@ -16,6 +16,6 @@ streamlit run app.py
 
 #OUTPUT
 
-![img]
+![img](1img.jpeg)
 ![img]
 ![img]
