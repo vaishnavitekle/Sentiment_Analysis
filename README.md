@@ -1,5 +1,15 @@
 # Sentiment_Analysis
 
+![img](1img.jpeg)
+
+![img](2img'.jpeg)
+
+![img](3img.jpeg)
+
+#Steps To Run:
+
+download the "IMDB Dataset" and save it in same folder. df = pd.read_csv("IMDB Dataset.csv")
+
 1]Install the required Python packages using:
 pip install -r requirements.txt
 
@@ -13,11 +23,3 @@ sudo apt-get install portaudio19-dev
 4]Running the App
 After installing the requirements and downloading the language model:
 streamlit run app.py
-
-#OUTPUT
-
-![img](1img.jpeg)
-
-![img](2img'.jpeg)
-
-![img](3img.jpeg)
